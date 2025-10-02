@@ -1,5 +1,5 @@
 <h1 align="center" style="background-color:red; color: yellow;">Hi 👋, I'm Memon Abdul Gani</h1>
-<h3 align="center">A passionate Java developer from India. Working as an IT trainer. Passionate about java development</h3>
+<h3 align="center">A passionate Java developer from India. Working as an IT trainer @SPRK Technologies. Passionate about java development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gani25&label=Profile%20views&color=0e75b6&style=flat" alt="gani25" /> </p>
 
