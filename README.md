@@ -8,14 +8,22 @@
 <p align="center">
   <a href="https://github.com/Gani25">
    <img src="https://komarev.com/ghpvc/?username=gani25&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="gani25" />
-  </a><a href="https://github.com/Gani25">
+  </a>
+	<a href="https://github.com/Gani25">
     <img src="https://img.shields.io/github/followers/Gani25?label=Followers&style=for-the-badge">
-  </a><a href="https://linkedin.com/in/memon-abdul-gani">
+  </a>
+	<a href="https://linkedin.com/in/memon-abdul-gani">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a><a href="mailto:memonabdulgani3d@gmail.com">
+  </a>
+	<a href="mailto:memonabdulgani3d@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=gani25&theme=flat&row=1&column=6" />
+</p>
+
 
 ---
 
@@ -113,7 +121,7 @@ Most of my work is around building **practical, real-world projects** that feel 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gani25" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gani25&theme=tokyonight"/>
 </p>
 
 ---
